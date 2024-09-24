@@ -1,0 +1,8 @@
+Lagrange.OneBot/
+
+/Lagrange.OneBot/
+__pycache__/
+chat_config.yaml
+cf_config.yaml
+config.yaml
+userInfo.json
